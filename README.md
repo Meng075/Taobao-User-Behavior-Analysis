@@ -1,6 +1,6 @@
 # Taobao-User-Behavior-Analysis
 # Project desciption
-E-commerce has become an indispensable part of our lives. With the improvement of living standards, the transaction volume of Taobao (Alibaba) is increasing year by year. 
+E-commerce has become an indispensable part of our lives. With the improvement of living standards, the transaction volume of Taobao (Alibaba) is increasing year by year. By analyzing users' behavior on the website, including page views, purchases, adding to cart, and favorites, e-commerce platforms can identify potential issues in current online marketing activities. This analysis aids in enhancing the user experience, providing personalized recommendations, optimizing marketing strategies, improving conversion rates, and more.
 # About Dataset
 The dataset is collected from Tianchi - a service platform that Alibaba Cloud launches to hold various big data competitions and provide users with AI learning courses, database sharing, big data exchange forums, and other services. Implicit feedback information is widely used in recommendation system algorithms. Implicit feedback reflects users' interests and hobbies. Exploring implicit feedback information helps improve the effectiveness of recommendation systems, leading to the better design of recommendation systems.
 
